@@ -10,3 +10,7 @@
 
 <img src="images/sun.png" alt="Image Description" width="30">Location-based Weather: Clima can determine the user's current location and provide weather data accordingly.
 
+
+<img src="images/clima.jpg" alt="Image Description" width="200">
+
+<img src="images/clima2.jpg" alt="Image Description" width="200">
